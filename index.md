@@ -50,13 +50,13 @@
 * `↑` fill the previous command to current.
 
 <h3>Commit and push the resulting change to your Github account </h3>
-* Type `git add *`
+* Type `git add *`.
 ![Image](gitadd.png)
-* Type `git commit -m 'fix error'`
+* Type `git commit -m 'fix error'`.
 ![Image](gitcommit.png)
-* Type `git push`
+* Type `git push`.
 ![Image](gitpush.png)
 <p>Summarize:</p>
-* `git add *` add all the files that are changed in local repository to the stage
-* `git commit -m 'message'` commit the changes in the stage with message
-* `git push` push the commit to the remote github repository
+* `git add *` add all the files that are changed in local repository to the stage.
+* `git commit -m 'message'` commit the changes in the stage with message.
+* `git push` push the commit to the remote github repository.
