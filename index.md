@@ -58,5 +58,5 @@
 ![Image](gitpush.png)
 <p>Summarize:</p>
 * `git add *` add all the files that are changed in local repository to the stage
-* `git commit -m 'message' commit the changes in the stage with message
+* `git commit -m 'message'` commit the changes in the stage with message
 * `git push` push the commit to the remote github repository
